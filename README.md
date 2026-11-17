@@ -27,8 +27,6 @@ src/EMS/
 └── EmployeeManagementSystem.java # Console menu and program entry point
 ```
 
-The repository also includes the original Eclipse project configuration (`.project`, `.classpath`, `.settings/`).
-
 ## Run in Eclipse
 
 1. Open Eclipse and choose **File → Import → General → Existing Projects into Workspace**.
